@@ -1,5 +1,5 @@
-#Thermal Sim by Peter Xiong and Anoushka
-#Implementation Steps
+Thermal Sim by Peter Xiong and Anoushka
+Implementation Steps
 To run the simulation, use the following command-line format:
 ./therm <dimx> <dimy> <dimz> <nTicks> <dx> <dy> <dz> <dt>
 	Arguments:
